@@ -1,0 +1,15 @@
+create:
+dit recht word gebruikt om een nieuw tabel te maken
+dit kan je gebruiken als je een nieuwe tabel nodig hebt
+
+alter:
+dit recht word gebruikt om dingen in een tabel te veranderen
+dit kan je gebruiken om dingen te veranderen als bijvoorbeeld een prijs veranderd
+
+drop:
+dit recht word gebruikt om dingen in de database te verwijderen
+dit kan een hacker gebruiken om je hele database te verwijderen
+
+grant:
+dit recht word gebruikt om andere users nieuwe rechten te geven
+dit kan een hacker gebruiken om een user alle rechten te geven en daar dan dingen mee gaan doen
