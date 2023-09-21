@@ -1,0 +1,6 @@
+straat: Evert van de Beekstraat, VARCHAR
+nummer: 354, INT
+postcode: 1118 CZ, VARCHAR
+stad/drop: Schiphol, VARCHAR
+
+We geven primary key om de zoeken op een id. not null omdat alles een id nodig heeft. unsigned omdat de id in de plus staat en dan kunnen we meer data opslaan en unique omdat je niet 2 dezelfde id's wilt hebben
